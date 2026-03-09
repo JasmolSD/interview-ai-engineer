@@ -24,7 +24,7 @@ Once an account is created, it typically takes about 10 to 20 minutes for their 
 ## Deliverables
 
 In order to submit your assignment, please fork this repository and open a PR with your changes.
-As mentioned, the assignment is deliberately open-ended. However, in order to provide some structure to the project and in order to ensure some consistency in end result, we would like you to take into account three rough phases:
+As mentioned, the assignment is deliberately open-ended. However, in order to provide some structure to the project and in order to ensure some consistency in end result, we would like you to take into account two rough phases:
 
 1. Data Acquisition and Engineering
     - Please submit a brief report containing summary statistics regarding the dataset that you have created from the previously mentioned raw data sources. Please list inclusion criteria, exclusion criteria, and brief reasoning for why you selected the data that you did
@@ -33,9 +33,6 @@ As mentioned, the assignment is deliberately open-ended. However, in order to pr
     - The end result should contain some novel processing of the collected data. Whether that is via interactive components, preprocessed analysis, or static visuals, this is up to you. Keep in mind the qualifications and desired skills of the AI Engineer role when choosing how you want to demonstrate your talent via this assignment.
 
     - A note on processing requirements: We recognize that some of the data available could consumer large amounts of computing resources when addressed in their entirety. For this project, consider it a polished proof of concept. We do not expect, or want you to, enterprise grade computing resources such as GPU clusters or pay-per-token APIs. When doing a test run of this assignment on our local hardware (in this case an M3 Pro Macbook with 36 GB of unified memory), we were able to build a prototype that was functional albeit with slow response times per query.
-
-3. Project Presentation
-    - We acknowledge that with short suggested time frame of the project, as well as the broad potential scope of assignment, that not all 
 
 ## What We Are Evaluating
 
